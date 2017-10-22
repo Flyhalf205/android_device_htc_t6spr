@@ -1,4 +1,4 @@
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 $(call inherit-product, device/htc/t6spr/full_t6spr.mk)
 
